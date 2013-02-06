@@ -15,9 +15,9 @@ else
 {
     oldLukeWarmness();
 }
-</pre></code>But with this sexy little number, no exceptions would be thrown:
-<pre><code>
-dynamic settings = new MalleableObject();
+</pre></code>
+But with this sexy little number, no exceptions would be thrown:
+<pre><code>dynamic settings = new MalleableObject();
 if (settings.useNewHotness)
 {
     newHotness();
