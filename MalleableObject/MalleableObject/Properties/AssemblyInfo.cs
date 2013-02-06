@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DynamicObject")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("MalleableObject")]
+[assembly: AssemblyDescription("A better expandoobject")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DynamicObject")]
+[assembly: AssemblyCompany("Greg Nehus")]
+[assembly: AssemblyProduct("MalleableObject")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -54,7 +54,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DynamicObject\MalleableObject.csproj">
+    <ProjectReference Include="..\MalleableObject\MalleableObject.csproj">
       <Project>{a983cb67-e6a6-43dc-bd3d-1487366eb6f1}</Project>
       <Name>MalleableObject</Name>
     </ProjectReference>
